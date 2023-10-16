@@ -9,3 +9,5 @@ He helped me work through this part of the assignment
 
 Had help from Ask BCS: Ryan on 10/15 with second Data Frame section, he actually helped clean up all above written code, DF was ok.
 
+Written analysis is at the top of the Jupyter NB.
+
